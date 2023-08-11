@@ -16,3 +16,4 @@ hello git master test
 hello git hot-fix test
 hello git github
 hello git clone update1
+hello git ssh
